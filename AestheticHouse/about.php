@@ -37,7 +37,7 @@ include_once'./components/layer/navbar.php';
 
           <div class="col-6 col-md-6">
             <div class="feature">
-              <h3>Kampus Merdeka (Studi Independet)</h3>
+              <h3>Kampus Merdeka (Studi Independent)</h3>
               <p>Eduwork di Kota Yogyakarta.</p>
             </div>
           </div>
